@@ -11,7 +11,7 @@ To validate your code
 terrafrom validate
 ```
 ---
-to check the plan
+To check the plan
 ```
 terraform plan
 ```
