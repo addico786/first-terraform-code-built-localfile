@@ -6,7 +6,7 @@ To initialize terraform
 terraform init
 ```
 ---
-to validate your code
+To validate your code
 ```
 terrafrom validate
 ```
