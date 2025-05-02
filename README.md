@@ -1,7 +1,7 @@
-# this is a basic terraform file to create a local file
+# This is a basic terraform file to create a local file
 
 ## prerequisites
-to initialize terraform
+To initialize terraform
 ```
 terraform init
 ```
