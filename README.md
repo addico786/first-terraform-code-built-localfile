@@ -1,6 +1,6 @@
 # This is a basic terraform file to create a local file
 
-## prerequisites
+## Prerequisites
 1.Linux-ubuntu
 2.Terraform should be installed
 3.Read the documentation online to download terraform
