@@ -20,4 +20,4 @@ to apply the file
 terraform apply -auto-approve
 ```
 
-## there you go now you have made a locat file using terraform 
+## there you go now you have made a local file using terraform 
