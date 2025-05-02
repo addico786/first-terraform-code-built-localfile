@@ -1,6 +1,12 @@
 # This is a basic terraform file to create a local file
 
 ## prerequisites
+1.Linux-ubuntu
+2.Terraform should be installed
+3.Read the documentation online to download terraform
+
+---
+## Workflow
 To initialize terraform
 ```
 terraform init
