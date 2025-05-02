@@ -15,7 +15,7 @@ To check the plan
 ```
 terraform plan
 ```
-to apply the file 
+To apply the file 
 ```
 terraform apply -auto-approve
 ```
